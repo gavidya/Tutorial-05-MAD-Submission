@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Application – Firebase</string>
+    <string name="sID">Student ID</string>
+    <string name="sName">"Name "</string>
+    <string name="sAddress">Address</string>
+    <string name="sPhone">Contact Number</string>
+    <string name="saveBtn">Save</string>
+    <string name="showBtn">Show</string>
+    <string name="updateBtn">Update</string>
+    <string name="deleteBtn">Delete</string>
+</resources>
